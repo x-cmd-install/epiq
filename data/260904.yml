@@ -1,60 +1,88 @@
 about:
-  description: Distributed, code-native issue tracker - audit workflows via time-travel
+  description:
+  |
+    Distributed, code-native issue tracker - audit workflows via time-travel
   license: MIT
   homepage: https://ljtn.github.io/epiq/
-  head: ed9f70f
+  head: 7f14769
   archived: false
-  latestVersion: v1.7.2
-  collectedAt: 2026-09-04T05:07:22Z
+  latestVersion: v1.8.0
+  collectedAt: 2026-09-04T20:02:37Z
 timeline:
   created: 2025-06-22
   lastCommit: 2026-09-04
-  lastRelease: 2026-09-01
+  lastRelease: 2026-09-04
 popularity:
-  star: 348
+  star: 349
   watcher: 4
   fork: 13
-  release: 41
+  release: 42
   contributor: 6
-  pullRequest: 1
+  pullRequest: 224
   issue: 10
 language:
-  TypeScript: 2308021
+  TypeScript: 2318792
   JavaScript: 15129
   Shell: 8679
   HTML: 436
   Dockerfile: 282
-totalLine: 2332547
+totalBytes: 2343318
 recent:
   last30d:
     since: 2026-08-05
-    release: 15
-    mergedPR: 150
+    release: 16
+    mergedPR: 156
     openPR: 1
     closedIssue: 5
     openIssue: 0
-    commit: 375
+    commit: 383
+  last60d:
+    since: 2026-07-06
+    release: 19
+    mergedPR: 164
+    openPR: 1
+    closedIssue: 5
+    openIssue: 0
+    commit: 391
   last90d:
     since: 2026-06-06
-    release: 30
-    mergedPR: 181
+    release: 31
+    mergedPR: 187
     openPR: 1
     closedIssue: 8
     openIssue: 0
-    commit: 407
+    commit: 415
   last180d:
     since: 2026-03-08
-    release: 41
-    mergedPR: 217
+    release: 42
+    mergedPR: 223
     openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 708
+    commit: 716
   last360d:
     since: 2025-09-09
-    release: 41
-    mergedPR: 217
+    release: 42
+    mergedPR: 223
     openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 821
+    commit: 829
+  last720d:
+    since: 2024-09-14
+    release: 42
+    mergedPR: 223
+    openPR: 1
+    closedIssue: 10
+    openIssue: 0
+    commit: 913
+total:
+  release: 42
+  mergedPR: 223
+  openPR: 1
+  closedIssue: 10
+  openIssue: 0
+  commit: 913
+---
+---
+
