@@ -1,0 +1,168 @@
+about:
+  description: "Distributed, code-native issue tracker - audit workflows via time-travel"
+  license: MIT
+  homepage: https://ljtn.github.io/epiq/
+  head: bf7c4e7
+  archived: false
+  latestVersion: "v1.8.1"
+  collectedAt: 2026-09-07T05:03:39Z
+timeline:
+  created: 2025-06-22
+  lastCommit: 2026-09-06
+  lastRelease: 2026-09-04
+popularity:
+  star: 354
+  watcher: 4
+  fork: 14
+  release: 43
+  contributor: 6
+  pullRequest: 240
+  issue: 10
+language:
+  TypeScript: 2396118
+  JavaScript: 17249
+  Shell: 8679
+  HTML: 436
+  Dockerfile: 282
+totalBytes: 2422764
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 14
+    mergedPR: 167
+    openPR: 1
+    closedIssue: 4
+    openIssue: 0
+    commit: 392
+  last60d:
+    since: 2026-07-09
+    release: 19
+    mergedPR: 178
+    openPR: 1
+    closedIssue: 5
+    openIssue: 0
+    commit: 406
+  last90d:
+    since: 2026-06-09
+    release: 32
+    mergedPR: 202
+    openPR: 1
+    closedIssue: 7
+    openIssue: 0
+    commit: 437
+  last180d:
+    since: 2026-03-11
+    release: 43
+    mergedPR: 238
+    openPR: 1
+    closedIssue: 9
+    openIssue: 0
+    commit: 733
+  last360d:
+    since: 2025-09-12
+    release: 43
+    mergedPR: 238
+    openPR: 1
+    closedIssue: 9
+    openIssue: 0
+    commit: 851
+  last720d:
+    since: 2024-09-17
+    release: 43
+    mergedPR: 238
+    openPR: 1
+    closedIssue: 10
+    openIssue: 0
+    commit: 935
+total:
+  release: 43
+  mergedPR: 238
+  openPR: 1
+  closedIssue: 10
+  openIssue: 0
+  commit: 935
+---
+path: /home/runner/.x-repo/github.com/ljtn/epiq
+collectedAt: 2026-09-07T05:03:45Z
+loc:
+  TypeScript:
+    code: 49590
+    comments: 5326
+    blanks: 10301
+    files: 378
+  Tsx:
+    code: 15262
+    comments: 1668
+    blanks: 1655
+    files: 114
+  Json:
+    code: 10728
+    comments: 0
+    blanks: 0
+    files: 7
+  JavaScript:
+    code: 358
+    comments: 89
+    blanks: 60
+    files: 9
+  Sh:
+    code: 156
+    comments: 66
+    blanks: 45
+    files: 6
+  Html:
+    code: 15
+    comments: 0
+    blanks: 1
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 200
+    blanks: 134
+    files: 2
+total:
+  code: 76171
+  comments: 7353
+  blanks: 12202
+  files: 518
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:03:48+00:00
+  platform:
+    darwin/arm64:
+      name:  epiq-macos-arm64
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-macos-arm64
+      size:  128175008
+      score: 38
+    darwin/amd64:
+      name:  epiq-macos-x64
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-macos-x64
+      size:  131435840
+      score: 38
+    linux/arm64:
+      name:  epiq-linux-arm64
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-linux-arm64
+      size:  138284160
+      score: 38
+    linux/amd64:
+      name:  epiq-linux-x64
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-linux-x64
+      size:  140971200
+      score: 38
+    win/arm64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/amd64:
+      name:  epiq-windows-x64.exe
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-windows-x64.exe
+      size:  103239168
+      score: 38
