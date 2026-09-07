@@ -2,99 +2,99 @@ about:
   description: "Distributed, code-native issue tracker - audit workflows via time-travel"
   license: MIT
   homepage: https://ljtn.github.io/epiq/
-  head: bf7c4e7
+  head: 783bab3
   archived: false
-  latestVersion: "v1.8.1"
-  collectedAt: 2026-09-07T05:03:39Z
+  latestVersion: "v1.8.2"
+  collectedAt: 2026-09-07T19:34:09Z
 timeline:
   created: 2025-06-22
-  lastCommit: 2026-09-06
-  lastRelease: 2026-09-04
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
   star: 354
   watcher: 4
   fork: 14
-  release: 43
+  release: 44
   contributor: 6
-  pullRequest: 240
+  pullRequest: 246
   issue: 10
 language:
-  TypeScript: 2396118
+  TypeScript: 2567016
   JavaScript: 17249
   Shell: 8679
   HTML: 436
   Dockerfile: 282
-totalBytes: 2422764
+totalBytes: 2593662
 recent:
   last30d:
     since: 2026-08-08
-    release: 14
-    mergedPR: 167
+    release: 15
+    mergedPR: 173
     openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 392
+    commit: 429
   last60d:
     since: 2026-07-09
-    release: 19
-    mergedPR: 178
+    release: 20
+    mergedPR: 184
     openPR: 1
     closedIssue: 5
     openIssue: 0
-    commit: 406
+    commit: 443
   last90d:
     since: 2026-06-09
-    release: 32
-    mergedPR: 202
+    release: 33
+    mergedPR: 208
     openPR: 1
     closedIssue: 7
     openIssue: 0
-    commit: 437
+    commit: 474
   last180d:
     since: 2026-03-11
-    release: 43
-    mergedPR: 238
+    release: 44
+    mergedPR: 244
     openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 733
+    commit: 770
   last360d:
     since: 2025-09-12
-    release: 43
-    mergedPR: 238
+    release: 44
+    mergedPR: 244
     openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 851
+    commit: 888
   last720d:
     since: 2024-09-17
-    release: 43
-    mergedPR: 238
+    release: 44
+    mergedPR: 244
     openPR: 1
     closedIssue: 10
     openIssue: 0
-    commit: 935
+    commit: 972
 total:
-  release: 43
-  mergedPR: 238
+  release: 44
+  mergedPR: 244
   openPR: 1
   closedIssue: 10
   openIssue: 0
-  commit: 935
+  commit: 972
 ---
 path: /home/runner/.x-repo/github.com/ljtn/epiq
-collectedAt: 2026-09-07T05:03:45Z
+collectedAt: 2026-09-07T19:34:18Z
 loc:
   TypeScript:
-    code: 49590
-    comments: 5326
-    blanks: 10301
-    files: 378
+    code: 53600
+    comments: 5965
+    blanks: 11038
+    files: 433
   Tsx:
-    code: 15262
-    comments: 1668
-    blanks: 1655
-    files: 114
+    code: 15309
+    comments: 1714
+    blanks: 1598
+    files: 119
   Json:
     code: 10728
     comments: 0
@@ -126,35 +126,35 @@ loc:
     blanks: 134
     files: 2
 total:
-  code: 76171
-  comments: 7353
-  blanks: 12202
-  files: 518
+  code: 80228
+  comments: 8038
+  blanks: 12882
+  files: 578
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:03:48+00:00
+  collectedAt: 2026-09-07T19:34:20+00:00
   platform:
     darwin/arm64:
       name:  epiq-macos-arm64
-      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-macos-arm64
-      size:  128175008
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.2/epiq-macos-arm64
+      size:  128200272
       score: 38
     darwin/amd64:
       name:  epiq-macos-x64
-      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-macos-x64
-      size:  131435840
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.2/epiq-macos-x64
+      size:  131444096
       score: 38
     linux/arm64:
       name:  epiq-linux-arm64
-      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-linux-arm64
-      size:  138284160
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.2/epiq-linux-arm64
+      size:  138349696
       score: 38
     linux/amd64:
       name:  epiq-linux-x64
-      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-linux-x64
-      size:  140971200
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.2/epiq-linux-x64
+      size:  141036736
       score: 38
     win/arm64:
       name:  null
@@ -163,6 +163,6 @@ eget:
       score: null
     win/amd64:
       name:  epiq-windows-x64.exe
-      url:   https://github.com/ljtn/epiq/releases/download/v1.8.1/epiq-windows-x64.exe
-      size:  103239168
+      url:   https://github.com/ljtn/epiq/releases/download/v1.8.2/epiq-windows-x64.exe
+      size:  103246848
       score: 38
