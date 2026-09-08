@@ -5,7 +5,7 @@ about:
   head: 96f16f6
   archived: false
   latestVersion: "v1.8.2"
-  collectedAt: 2026-09-08T02:17:00Z
+  collectedAt: 2026-09-08T05:01:59Z
 timeline:
   created: 2025-06-22
   lastCommit: 2026-09-07
@@ -16,7 +16,7 @@ popularity:
   fork: 14
   release: 44
   contributor: 6
-  pullRequest: 260
+  pullRequest: 261
   issue: 10
 language:
   TypeScript: 2719464
@@ -83,7 +83,7 @@ total:
   commit: 992
 ---
 path: /home/runner/.x-repo/github.com/ljtn/epiq
-collectedAt: 2026-09-08T02:17:08Z
+collectedAt: 2026-09-08T05:02:13Z
 loc:
   TypeScript:
     code: 54705
