@@ -2,20 +2,20 @@ about:
   description: "Distributed, code-native issue tracker - audit workflows via time-travel"
   license: MIT
   homepage: https://ljtn.github.io/epiq/
-  head: 8ae9629
+  head: 21df56c
   archived: false
   latestVersion: "v1.8.5"
   latestRelease: "v1.8.5"
   latestPrerelease: "v0.6.3"
-  collectedAt: 2026-09-09T05:11:46Z
+  collectedAt: 2026-09-09T19:08:59Z
 timeline:
   created: 2025-06-22
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2026-05-12
 popularity:
-  star: 361
+  star: 366
   watcher: 4
   fork: 14
   release: 46
@@ -25,69 +25,69 @@ popularity:
 language:
   TypeScript: 2847376
   JavaScript: 19320
-  Shell: 8679
+  Shell: 10425
   HTML: 436
   Dockerfile: 282
-totalBytes: 2876093
+totalBytes: 2877839
 recent:
   last30d:
     since: 2026-08-10
     release: 17
-    mergedPR: 197
-    openPR: 2
+    mergedPR: 198
+    openPR: 1
     closedIssue: 4
     openIssue: 0
-    commit: 472
+    commit: 474
   last60d:
     since: 2026-07-11
     release: 22
-    mergedPR: 208
-    openPR: 2
+    mergedPR: 209
+    openPR: 1
     closedIssue: 5
     openIssue: 0
-    commit: 486
+    commit: 488
   last90d:
     since: 2026-06-11
     release: 35
-    mergedPR: 232
-    openPR: 2
+    mergedPR: 233
+    openPR: 1
     closedIssue: 7
     openIssue: 0
-    commit: 517
+    commit: 519
   last180d:
     since: 2026-03-13
     release: 46
-    mergedPR: 268
-    openPR: 2
+    mergedPR: 269
+    openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 813
+    commit: 815
   last360d:
     since: 2025-09-14
     release: 46
-    mergedPR: 268
-    openPR: 2
+    mergedPR: 269
+    openPR: 1
     closedIssue: 9
     openIssue: 0
-    commit: 931
+    commit: 933
   last720d:
     since: 2024-09-19
     release: 46
-    mergedPR: 268
-    openPR: 2
+    mergedPR: 269
+    openPR: 1
     closedIssue: 10
     openIssue: 0
-    commit: 1015
+    commit: 1017
 total:
   release: 46
-  mergedPR: 268
-  openPR: 2
+  mergedPR: 269
+  openPR: 1
   closedIssue: 10
   openIssue: 0
-  commit: 1015
+  commit: 1017
 ---
 path: /home/runner/.x-repo/github.com/ljtn/epiq
-collectedAt: 2026-09-09T05:11:53Z
+collectedAt: 2026-09-09T19:09:41Z
 loc:
   TypeScript:
     code: 56490
@@ -110,9 +110,9 @@ loc:
     blanks: 68
     files: 10
   Sh:
-    code: 156
-    comments: 66
-    blanks: 45
+    code: 184
+    comments: 76
+    blanks: 42
     files: 6
   Html:
     code: 15
@@ -130,9 +130,9 @@ loc:
     blanks: 134
     files: 2
 total:
-  code: 84644
-  comments: 9347
-  blanks: 13782
+  code: 84672
+  comments: 9357
+  blanks: 13779
   files: 621
 ---
 
