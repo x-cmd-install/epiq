@@ -4,7 +4,7 @@
 
 Distributed, code-native issue tracker - audit workflows via time-travel
 
-![epiq](https://repo.x-cmd.io/epiq.svg)
+![epiq](https://repo.x-cmd.io/epiq.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,16 @@ x install epiq
 - **最新版本**: `v1.8.5` (2026-09-08)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 5 个
-- **发布时间**: 2026-09-08T22:39:30Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-arm64) | 132.0 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-x64) | 134.6 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-arm64) | 122.4 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-x64) | 125.5 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-windows-x64.exe) | 98.6 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -62,4 +71,4 @@ epiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:05:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:49:55Z._

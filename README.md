@@ -23,7 +23,16 @@ x install epiq
 - **Latest**: `v1.8.5` (2026-09-08)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 5
-- **Published**: 2026-09-08T22:39:30Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-arm64) | 132.0 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-x64) | 134.6 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-arm64) | 122.4 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-x64) | 125.5 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-windows-x64.exe) | 98.6 MiB | `native/win/x64` |
 
 ## Popularity
 
@@ -58,8 +67,8 @@ Total: **84,619** lines of code across **617** files in the top 5 languages.
 Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `epiq` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/epiq.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/epiq.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:05:27Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:55Z._
