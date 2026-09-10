@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.8.5"
   latestRelease: "v1.8.5"
   latestPrerelease: "v0.6.3"
-  collectedAt: 2026-09-10T16:49:41Z
+  collectedAt: 2026-09-10T21:32:22Z
 timeline:
   created: 2025-06-22
   lastCommit: 2026-09-09
@@ -87,7 +87,7 @@ total:
   commit: 1017
 ---
 path: /home/runner/.x-repo/github.com/ljtn/epiq
-collectedAt: 2026-09-10T16:49:48Z
+collectedAt: 2026-09-10T21:32:28Z
 loc:
   TypeScript:
     code: 56490
