@@ -38,7 +38,7 @@ Total: **84,619** lines of code across **617** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 367 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 370 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T05:02:39Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T19:57:34Z._
