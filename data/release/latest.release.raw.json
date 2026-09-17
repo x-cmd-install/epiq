@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ljtn/epiq/releases/385106878",
-  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/385106878/assets",
-  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/385106878/assets{?name,label}",
-  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.8.5",
-  "id": 385106878,
+  "url": "https://api.github.com/repos/ljtn/epiq/releases/390297454",
+  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/390297454/assets",
+  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/390297454/assets{?name,label}",
+  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.8.6",
+  "id": 390297454,
   "author": {
     "login": "ljtn",
     "id": 23129824,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPAGkN84W9EO-",
-  "tag_name": "v1.8.5",
+  "node_id": "RE_kwDOPAGkN84XQ3du",
+  "tag_name": "v1.8.6",
   "target_commitish": "main",
-  "name": "v1.8.5",
+  "name": "v1.8.6",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-08T22:38:25Z",
-  "updated_at": "2026-09-08T22:46:22Z",
-  "published_at": "2026-09-08T22:39:30Z",
+  "created_at": "2026-09-16T21:49:59Z",
+  "updated_at": "2026-09-16T21:58:54Z",
+  "published_at": "2026-09-16T21:51:19Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/551467264",
-      "id": 551467264,
-      "node_id": "RA_kwDOPAGkN84g3rkA",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/568881050",
+      "id": 568881050,
+      "node_id": "RA_kwDOPAGkN84h6G-a",
       "name": "epiq-linux-arm64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 138415232,
-      "digest": "sha256:f876462f8bb3bc69164e0004172297fc4754070ff46cf8e8e7ff066eaca74f88",
-      "download_count": 2,
-      "created_at": "2026-09-08T22:45:39Z",
-      "updated_at": "2026-09-08T22:45:43Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-arm64"
+      "size": 138480768,
+      "digest": "sha256:6324bb3513889b4b43c0cc991eae212255b0fb5f59b116fc826b739d7fd52e2c",
+      "download_count": 0,
+      "created_at": "2026-09-16T21:58:01Z",
+      "updated_at": "2026-09-16T21:58:06Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.6/epiq-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/551467212",
-      "id": 551467212,
-      "node_id": "RA_kwDOPAGkN84g3rjM",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/568881067",
+      "id": 568881067,
+      "node_id": "RA_kwDOPAGkN84h6G-r",
       "name": "epiq-linux-x64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 141102272,
-      "digest": "sha256:94838cefd0bf857d8941b499dc4261ba5ac5c4750b40d4a4143b0e8bab0fbc99",
-      "download_count": 38,
-      "created_at": "2026-09-08T22:45:36Z",
-      "updated_at": "2026-09-08T22:45:41Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-linux-x64"
+      "size": 141167808,
+      "digest": "sha256:fbf02618430629e84fd3bbb1b679990e7a1d5f0023f9ded28d8c233713e9446f",
+      "download_count": 1,
+      "created_at": "2026-09-16T21:58:02Z",
+      "updated_at": "2026-09-16T21:58:07Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.6/epiq-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/551467296",
-      "id": 551467296,
-      "node_id": "RA_kwDOPAGkN84g3rkg",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/568881329",
+      "id": 568881329,
+      "node_id": "RA_kwDOPAGkN84h6HCx",
       "name": "epiq-macos-arm64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 128298768,
-      "digest": "sha256:3c0bdc36218928653d49c339284e3c3acf79bcc9023324aad1e9ef13f694201e",
-      "download_count": 20,
-      "created_at": "2026-09-08T22:45:41Z",
-      "updated_at": "2026-09-08T22:45:46Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-arm64"
+      "size": 128380848,
+      "digest": "sha256:907066b0c2c1a46a0973b449bab762509b96de01f6048820e3f5552c870e4379",
+      "download_count": 1,
+      "created_at": "2026-09-16T21:58:14Z",
+      "updated_at": "2026-09-16T21:58:20Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.6/epiq-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/551467979",
-      "id": 551467979,
-      "node_id": "RA_kwDOPAGkN84g3rvL",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/568881555",
+      "id": 568881555,
+      "node_id": "RA_kwDOPAGkN84h6HGT",
       "name": "epiq-macos-x64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 131555552,
-      "digest": "sha256:90c6eef79856877b9c180cda41f3649bc6a6a9ba06d3cc953775ea0fb2274846",
-      "download_count": 1,
-      "created_at": "2026-09-08T22:46:14Z",
-      "updated_at": "2026-09-08T22:46:19Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-macos-x64"
+      "size": 131629856,
+      "digest": "sha256:e339bb7f033ccd6c85445f087d1fea94e9366afcdd7af7752da6468930d0e264",
+      "download_count": 0,
+      "created_at": "2026-09-16T21:58:23Z",
+      "updated_at": "2026-09-16T21:58:27Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.6/epiq-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/551468077",
-      "id": 551468077,
-      "node_id": "RA_kwDOPAGkN84g3rwt",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/568882004",
+      "id": 568882004,
+      "node_id": "RA_kwDOPAGkN84h6HNU",
       "name": "epiq-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -209,15 +209,15 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 103360000,
-      "digest": "sha256:15ce7162ab9290784b05e016361ea4351913fd8c6a8d7885d9a9e35f13b3af97",
-      "download_count": 1,
-      "created_at": "2026-09-08T22:46:18Z",
-      "updated_at": "2026-09-08T22:46:22Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.5/epiq-windows-x64.exe"
+      "size": 103431168,
+      "digest": "sha256:f44d3f816ca51cb053d1c95e13fd37531b22c487503e3b19ddf3d0055e77c319",
+      "download_count": 0,
+      "created_at": "2026-09-16T21:58:36Z",
+      "updated_at": "2026-09-16T21:58:40Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.8.6/epiq-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.8.5",
-  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.8.5",
-  "body": "- Gui swimlane chart button instead of inline chart\r\n- Shorter tooltip"
+  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.8.6",
+  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.8.6",
+  "body": "* **Board and project management:** Create, rename, and switch boards from the GUI; preserve project identity across checkouts; and expose board creation to agents.\r\n* **Timeline exploration:** Add the Flow layout, text and ticket filtering, improved series narrowing, Spotlight mode, and clearer impact-based controls.\r\n* **Event log:** Make the log resizable and detachable, with configurable columns, actor lanes, improved navigation, and inline diff statistics.\r\n* **Interface polish:** Improve spacing, controls, icon buttons, ticket cards, tags, agent labels, segment boundaries, and dock interactions.\r\n* **Reliability and testing:** Make event ordering locale-independent, validate writes against live nodes, improve drag-test coverage, and handle release binaries more safely.\r\n"
 }
