@@ -14,12 +14,12 @@ x install epiq
 
 ## Code insight
 
-Total: **90,204** lines of code across **652** files in the top 5 languages.
+Total: **93,449** lines of code across **682** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 61,034 | 7,655 | 12,587 | 492 |
-| Tsx | 17,837 | 2,359 | 1,893 | 137 |
+| TypeScript | 63,739 | 8,617 | 13,203 | 519 |
+| Tsx | 18,377 | 2,495 | 1,953 | 140 |
 | Json | 10,728 | 0 | 0 | 7 |
 | JavaScript | 397 | 105 | 68 | 10 |
 | Sh | 184 | 76 | 42 | 6 |
@@ -33,27 +33,27 @@ Total: **90,204** lines of code across **652** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.6` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Last commit**: 2026-09-17
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 381 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 382 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 320 · **Open PRs**: 3 · **Closed issues**: 10 · **Open issues**: 0 · **Commits**: 1082
+- **Releases**: 47 · **Merged PRs**: 332 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 0 · **Commits**: 1116
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 13 | 235 | 3 | 0 | 0 | 533 |
-| last60d | 2026-07-19 | 21 | 253 | 3 | 5 | 0 | 552 |
-| 90d | 2026-06-19 | 33 | 275 | 3 | 6 | 0 | 574 |
-| last180d | 2026-03-21 | 47 | 320 | 3 | 9 | 0 | 863 |
-| 360d | 2025-09-22 | 47 | 320 | 3 | 9 | 0 | 998 |
-| last720d | 2024-09-27 | 47 | 320 | 3 | 10 | 0 | 1082 |
+| 30d | 2026-08-19 | 13 | 246 | 0 | 0 | 0 | 567 |
+| last60d | 2026-07-20 | 21 | 265 | 0 | 5 | 0 | 586 |
+| 90d | 2026-06-20 | 32 | 287 | 0 | 6 | 0 | 608 |
+| last180d | 2026-03-22 | 47 | 332 | 0 | 9 | 0 | 897 |
+| 360d | 2025-09-23 | 47 | 332 | 0 | 9 | 0 | 1032 |
+| last720d | 2024-09-28 | 47 | 332 | 0 | 10 | 0 | 1116 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:36:44Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:11:16Z._
