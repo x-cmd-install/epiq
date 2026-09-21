@@ -14,14 +14,14 @@ x install epiq
 
 ## Code insight
 
-Total: **103,773** lines of code across **769** files in the top 5 languages.
+Total: **106,227** lines of code across **787** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 72,024 | 11,252 | 14,913 | 592 |
-| Tsx | 20,360 | 3,214 | 2,173 | 153 |
-| Json | 10,731 | 0 | 0 | 7 |
-| JavaScript | 451 | 126 | 81 | 11 |
+| TypeScript | 74,089 | 12,302 | 15,408 | 609 |
+| Tsx | 20,734 | 3,474 | 2,171 | 154 |
+| Json | 10,733 | 0 | 0 | 7 |
+| JavaScript | 464 | 162 | 83 | 11 |
 | Sh | 183 | 90 | 43 | 6 |
 
 ## Source
@@ -32,38 +32,38 @@ Total: **103,773** lines of code across **769** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.9.0` (2026-09-19)
+- **Latest**: `v1.11.0` (2026-09-20)
 - **Last commit**: 2026-09-20
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 383 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
+- **Stars**: 384 · **Forks**: 14 · **Open issues**: 10 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 363 · **Open PRs**: 1 · **Closed issues**: 10 · **Open issues**: 0 · **Commits**: 1252
+- **Releases**: 50 · **Merged PRs**: 385 · **Open PRs**: 0 · **Closed issues**: 10 · **Open issues**: 0 · **Commits**: 1314
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 13 | 275 | 1 | 0 | 0 | 635 |
-| last60d | 2026-07-22 | 22 | 296 | 1 | 5 | 0 | 722 |
-| 90d | 2026-06-22 | 33 | 318 | 1 | 6 | 0 | 731 |
-| last180d | 2026-03-24 | 48 | 363 | 1 | 9 | 0 | 1017 |
-| 360d | 2025-09-25 | 48 | 363 | 1 | 9 | 0 | 1168 |
-| last720d | 2024-09-30 | 48 | 363 | 1 | 10 | 0 | 1252 |
+| 30d | 2026-08-22 | 14 | 296 | 0 | 0 | 0 | 697 |
+| last60d | 2026-07-23 | 24 | 318 | 0 | 5 | 0 | 784 |
+| 90d | 2026-06-23 | 35 | 334 | 0 | 6 | 0 | 793 |
+| last180d | 2026-03-25 | 50 | 385 | 0 | 9 | 0 | 1079 |
+| 360d | 2025-09-26 | 50 | 385 | 0 | 9 | 0 | 1230 |
+| last720d | 2024-10-01 | 50 | 385 | 0 | 10 | 0 | 1314 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-linux-arm64) | 132.2 MiB | `native/linux/arm64` |
-| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-linux-x64) | 134.8 MiB | `other` |
-| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-macos-arm64) | 122.5 MiB | `native/darwin/arm64` |
-| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-macos-x64) | 125.6 MiB | `native/darwin/x64` |
-| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-windows-x64.exe) | 98.7 MiB | `native/win/x64` |
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-linux-arm64) | 130.3 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-linux-x64) | 132.9 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-macos-arm64) | 120.6 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-macos-x64) | 123.7 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-windows-x64.exe) | 96.9 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T05:25:13Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T05:22:45Z._

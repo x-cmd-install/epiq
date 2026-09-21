@@ -14,14 +14,14 @@ x install epiq
 
 ## 代码洞察
 
-合计: **103,773** 行代码（覆盖前 5 种语言、共 **769** 个文件）。
+合计: **106,227** 行代码（覆盖前 5 种语言、共 **787** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 72,024 | 11,252 | 14,913 | 592 |
-| Tsx | 20,360 | 3,214 | 2,173 | 153 |
-| Json | 10,731 | 0 | 0 | 7 |
-| JavaScript | 451 | 126 | 81 | 11 |
+| TypeScript | 74,089 | 12,302 | 15,408 | 609 |
+| Tsx | 20,734 | 3,474 | 2,171 | 154 |
+| Json | 10,733 | 0 | 0 | 7 |
+| JavaScript | 464 | 162 | 83 | 11 |
 | Sh | 183 | 90 | 43 | 6 |
 
 ## 源代码
@@ -32,38 +32,38 @@ x install epiq
 
 ## 发布
 
-- **最新版本**: `v1.9.0` (2026-09-19)
+- **最新版本**: `v1.11.0` (2026-09-20)
 - **最近提交**: 2026-09-20
 - **Release 含资产**: 5 个
 
 ## 流行度
 
-- **Star**: 383 · **Fork**: 14 · **开放 issue**: 10 · **贡献者**: 6
+- **Star**: 384 · **Fork**: 14 · **开放 issue**: 10 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 48 · **已合并 PR**: 363 · **开放 PR**: 1 · **已关闭 issue**: 10 · **开放 issue**: 0 · **提交数**: 1252
+- **发布数**: 50 · **已合并 PR**: 385 · **开放 PR**: 0 · **已关闭 issue**: 10 · **开放 issue**: 0 · **提交数**: 1314
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 13 | 275 | 1 | 0 | 0 | 635 |
-| last60d | 2026-07-22 | 22 | 296 | 1 | 5 | 0 | 722 |
-| 90d | 2026-06-22 | 33 | 318 | 1 | 6 | 0 | 731 |
-| last180d | 2026-03-24 | 48 | 363 | 1 | 9 | 0 | 1017 |
-| 360d | 2025-09-25 | 48 | 363 | 1 | 9 | 0 | 1168 |
-| last720d | 2024-09-30 | 48 | 363 | 1 | 10 | 0 | 1252 |
+| 30d | 2026-08-22 | 14 | 296 | 0 | 0 | 0 | 697 |
+| last60d | 2026-07-23 | 24 | 318 | 0 | 5 | 0 | 784 |
+| 90d | 2026-06-23 | 35 | 334 | 0 | 6 | 0 | 793 |
+| last180d | 2026-03-25 | 50 | 385 | 0 | 9 | 0 | 1079 |
+| 360d | 2025-09-26 | 50 | 385 | 0 | 9 | 0 | 1230 |
+| last720d | 2024-10-01 | 50 | 385 | 0 | 10 | 0 | 1314 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-linux-arm64) | 132.2 MiB | `native/linux/arm64` |
-| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-linux-x64) | 134.8 MiB | `other` |
-| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-macos-arm64) | 122.5 MiB | `native/darwin/arm64` |
-| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-macos-x64) | 125.6 MiB | `native/darwin/x64` |
-| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.9.0/epiq-windows-x64.exe) | 98.7 MiB | `native/win/x64` |
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-linux-arm64) | 130.3 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-linux-x64) | 132.9 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-macos-arm64) | 120.6 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-macos-x64) | 123.7 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-windows-x64.exe) | 96.9 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ epiq 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260920.yml` · 2026-09-20T05:25:13Z._
+_数据快照: `data/card/260921.yml` · 2026-09-21T05:22:46Z._
