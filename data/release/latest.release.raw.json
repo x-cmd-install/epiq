@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 139332800,
       "digest": "sha256:c84a57b326573b826f1f25f940fb6b1a918b136a3eaaed4ef5db875ceb4822cb",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-20T16:02:58Z",
       "updated_at": "2026-09-20T16:03:02Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.11.0/epiq-linux-x64"
