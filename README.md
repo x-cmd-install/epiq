@@ -38,22 +38,22 @@ Total: **107,698** lines of code across **803** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 519 · **Forks**: 19 · **Open issues**: 12 · **Contributors**: 6
+- **Stars**: 522 · **Forks**: 19 · **Open issues**: 13 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 52 · **Merged PRs**: 408 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 1358
+- **Releases**: 52 · **Merged PRs**: 408 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 2 · **Commits**: 1358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 11 | 191 | 0 | 1 | 1 | 457 |
-| last60d | 2026-08-04 | 26 | 341 | 0 | 6 | 1 | 828 |
-| 90d | 2026-07-05 | 29 | 349 | 0 | 6 | 1 | 836 |
-| last180d | 2026-04-06 | 52 | 408 | 0 | 10 | 1 | 1105 |
-| 360d | 2025-10-08 | 52 | 408 | 0 | 10 | 1 | 1274 |
-| last720d | 2024-10-13 | 52 | 408 | 0 | 11 | 1 | 1358 |
+| 30d | 2026-09-04 | 11 | 177 | 0 | 1 | 2 | 339 |
+| last60d | 2026-08-05 | 26 | 341 | 0 | 6 | 2 | 824 |
+| 90d | 2026-07-06 | 29 | 349 | 0 | 6 | 2 | 835 |
+| last180d | 2026-04-07 | 52 | 408 | 0 | 10 | 2 | 1080 |
+| 360d | 2025-10-09 | 52 | 408 | 0 | 10 | 2 | 1274 |
+| last720d | 2024-10-14 | 52 | 408 | 0 | 11 | 2 | 1358 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:43:18Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:16:30Z._
