@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ljtn/epiq/releases/406155724",
-  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/406155724/assets",
-  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/406155724/assets{?name,label}",
-  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.12.3",
-  "id": 406155724,
+  "url": "https://api.github.com/repos/ljtn/epiq/releases/406714605",
+  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/406714605/assets",
+  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/406714605/assets{?name,label}",
+  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.12.4",
+  "id": 406714605,
   "author": {
     "login": "ljtn",
     "id": 23129824,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPAGkN84YNXHM",
-  "tag_name": "v1.12.3",
+  "node_id": "RE_kwDOPAGkN84YPfjt",
+  "tag_name": "v1.12.4",
   "target_commitish": "main",
-  "name": "v1.12.3",
+  "name": "v1.12.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-07T20:50:16Z",
-  "updated_at": "2026-10-07T20:58:28Z",
-  "published_at": "2026-10-07T20:54:29Z",
+  "created_at": "2026-10-08T10:41:03Z",
+  "updated_at": "2026-10-08T10:47:08Z",
+  "published_at": "2026-10-08T10:42:53Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/619798189",
-      "id": 619798189,
-      "node_id": "RA_kwDOPAGkN84k8V6t",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/621531585",
+      "id": 621531585,
+      "node_id": "RA_kwDOPAGkN84lC9HB",
       "name": "epiq-linux-arm64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 136711296,
-      "digest": "sha256:253a55d06d0613558cc225195717bf152b3fa99b86fbe3132cce6b1834f8ee3f",
+      "size": 136973440,
+      "digest": "sha256:6aeb1ae8e2120551df8c9f9e60a9d898ad86b1217d7af03db236bcfdb6ed41cd",
       "download_count": 1,
-      "created_at": "2026-10-07T20:57:29Z",
-      "updated_at": "2026-10-07T20:57:33Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.3/epiq-linux-arm64"
+      "created_at": "2026-10-08T10:45:35Z",
+      "updated_at": "2026-10-08T10:45:40Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.4/epiq-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/619797865",
-      "id": 619797865,
-      "node_id": "RA_kwDOPAGkN84k8V1p",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/621531821",
+      "id": 621531821,
+      "node_id": "RA_kwDOPAGkN84lC9Kt",
       "name": "epiq-linux-x64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 139332800,
-      "digest": "sha256:db0e269d3936e6f8d4715a0243c59cf10273a2d56404dd6d66bcf7178bb5f2f9",
+      "size": 139594944,
+      "digest": "sha256:7813bc302296fe066028da595bdedd0b297892b22ae28949117bd84e334ba048",
       "download_count": 1,
-      "created_at": "2026-10-07T20:57:21Z",
-      "updated_at": "2026-10-07T20:57:27Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.3/epiq-linux-x64"
+      "created_at": "2026-10-08T10:45:40Z",
+      "updated_at": "2026-10-08T10:45:46Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.4/epiq-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/619799219",
-      "id": 619799219,
-      "node_id": "RA_kwDOPAGkN84k8WKz",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/621532437",
+      "id": 621532437,
+      "node_id": "RA_kwDOPAGkN84lC9UV",
       "name": "epiq-macos-arm64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 126525840,
-      "digest": "sha256:22e0b91795286a213802eeb17579e18232bbcedf63796a34e1bef67e2a971281",
-      "download_count": 2,
-      "created_at": "2026-10-07T20:57:52Z",
-      "updated_at": "2026-10-07T20:57:57Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.3/epiq-macos-arm64"
+      "size": 126755664,
+      "digest": "sha256:d19db57cee2580ccc5f36981fb5ab27a6da4b8fdfe0c6e9aedf3e12aaf3271c1",
+      "download_count": 4,
+      "created_at": "2026-10-08T10:45:59Z",
+      "updated_at": "2026-10-08T10:46:04Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.4/epiq-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/619799886",
-      "id": 619799886,
-      "node_id": "RA_kwDOPAGkN84k8WVO",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/621534306",
+      "id": 621534306,
+      "node_id": "RA_kwDOPAGkN84lC9xi",
       "name": "epiq-macos-x64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 129764000,
-      "digest": "sha256:a4c7171c5a5bf905b38b164e31c6320c08b8cbe91d848f714c6a1a796bdc664f",
+      "size": 130003424,
+      "digest": "sha256:1ec768f83327020ffefadcdb84e03584efe9b5e6abfeea55d4379761123158c4",
       "download_count": 1,
-      "created_at": "2026-10-07T20:58:10Z",
-      "updated_at": "2026-10-07T20:58:17Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.3/epiq-macos-x64"
+      "created_at": "2026-10-08T10:46:49Z",
+      "updated_at": "2026-10-08T10:46:54Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.4/epiq-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/619799470",
-      "id": 619799470,
-      "node_id": "RA_kwDOPAGkN84k8WOu",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/621532905",
+      "id": 621532905,
+      "node_id": "RA_kwDOPAGkN84lC9bp",
       "name": "epiq-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -209,15 +209,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 101556224,
-      "digest": "sha256:3eb0436b037005dd7a7db015f58647a94c9883ed52a9ffe8c5d70123ef381ba8",
+      "size": 101793280,
+      "digest": "sha256:92424f46d9a773ec2d3e956539d179c675876333abc5d463ccb930b999be941b",
       "download_count": 1,
-      "created_at": "2026-10-07T20:57:58Z",
-      "updated_at": "2026-10-07T20:58:02Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.3/epiq-windows-x64.exe"
+      "created_at": "2026-10-08T10:46:13Z",
+      "updated_at": "2026-10-08T10:46:17Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.12.4/epiq-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.12.3",
-  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.12.3",
-  "body": "v1.12.3\r\n\r\nTimeline\r\n- The controls row names its groups: a small View, Scope, Narrow, Play, with labels and adjusted styling\r\n\r\nDocs\r\n- The readme updated with clearer introduction to the project\r\n\r\nInternal\r\n- The GUI suite on CI installs Chromium alone; the runner image already\r\n  carries its system libraries, and the apt step had been stalling on\r\n  the Ubuntu mirror"
+  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.12.4",
+  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.12.4",
+  "body": "v1.12.4\r\nDependencies\r\n- npm audit goes from 23 vulnerabilities, 1 critical, to 0: the MCP SDK,\r\n  react-router-dom, vitest and esbuild move to patched releases and the\r\n  rest refresh within their ranges. Contributed by @DalenW (#446)\r\n\r\nInternal\r\n- Three GUI tests waited on one thing and read another, which the\r\n  Playwright 1.64 update exposed; they now wait for what they read\r\n  (SY3AFQ2, #447)",
+  "mentions_count": 1
 }
