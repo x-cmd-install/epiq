@@ -33,27 +33,27 @@ Total: **118,532** lines of code across **863** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.13.0` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-15
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 542 · **Forks**: 21 · **Open issues**: 14 · **Contributors**: 7
+- **Stars**: 543 · **Forks**: 21 · **Open issues**: 14 · **Contributors**: 7
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 440 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 1 · **Commits**: 1456
+- **Releases**: 56 · **Merged PRs**: 443 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 1457
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 10 | 144 | 0 | 3 | 1 | 353 |
-| last60d | 2026-08-16 | 25 | 358 | 0 | 3 | 1 | 908 |
-| 90d | 2026-07-17 | 30 | 373 | 0 | 8 | 1 | 926 |
-| last180d | 2026-04-18 | 56 | 440 | 0 | 12 | 1 | 1136 |
-| 360d | 2025-10-20 | 56 | 440 | 0 | 12 | 1 | 1372 |
-| last720d | 2024-10-25 | 56 | 440 | 0 | 13 | 1 | 1456 |
+| 30d | 2026-09-16 | 10 | 122 | 0 | 4 | 0 | 354 |
+| last60d | 2026-08-17 | 24 | 358 | 0 | 4 | 0 | 909 |
+| 90d | 2026-07-18 | 30 | 376 | 0 | 9 | 0 | 927 |
+| last180d | 2026-04-19 | 56 | 443 | 0 | 13 | 0 | 1137 |
+| 360d | 2025-10-21 | 56 | 443 | 0 | 13 | 0 | 1373 |
+| last720d | 2024-10-26 | 56 | 443 | 0 | 14 | 0 | 1457 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:57:00Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:50:51Z._
