@@ -14,15 +14,15 @@ x install epiq
 
 ## Code insight
 
-Total: **118,532** lines of code across **863** files in the top 5 languages.
+Total: **119,575** lines of code across **873** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 85,480 | 13,708 | 17,308 | 670 |
-| Tsx | 22,556 | 3,642 | 2,291 | 169 |
-| Json | 9,825 | 0 | 0 | 7 |
-| JavaScript | 464 | 162 | 83 | 11 |
-| Sh | 183 | 90 | 43 | 6 |
+| TypeScript | 86,346 | 13,797 | 17,470 | 678 |
+| Tsx | 22,748 | 3,669 | 2,299 | 171 |
+| Json | 9,826 | 0 | 0 | 7 |
+| JavaScript | 448 | 161 | 80 | 11 |
+| Sh | 183 | 91 | 43 | 6 |
 
 ## Source
 
@@ -32,38 +32,38 @@ Total: **118,532** lines of code across **863** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.13.0` (2026-10-13)
-- **Last commit**: 2026-10-15
+- **Latest**: `v1.13.2` (2026-10-19)
+- **Last commit**: 2026-10-19
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 544 · **Forks**: 22 · **Open issues**: 16 · **Contributors**: 7
+- **Stars**: 547 · **Forks**: 22 · **Open issues**: 17 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 443 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 2 · **Commits**: 1457
+- **Releases**: 58 · **Merged PRs**: 457 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 1487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 9 | 80 | 1 | 4 | 2 | 143 |
-| last60d | 2026-08-20 | 21 | 357 | 1 | 4 | 2 | 857 |
-| 90d | 2026-07-21 | 30 | 376 | 1 | 9 | 2 | 927 |
-| last180d | 2026-04-22 | 56 | 443 | 1 | 13 | 2 | 1093 |
-| 360d | 2025-10-24 | 56 | 443 | 1 | 13 | 2 | 1373 |
-| last720d | 2024-10-29 | 56 | 443 | 1 | 14 | 2 | 1457 |
+| 30d | 2026-09-20 | 10 | 72 | 0 | 6 | 1 | 173 |
+| last60d | 2026-08-21 | 23 | 369 | 0 | 6 | 1 | 887 |
+| 90d | 2026-07-22 | 32 | 390 | 0 | 11 | 1 | 957 |
+| last180d | 2026-04-23 | 58 | 457 | 0 | 15 | 1 | 1123 |
+| 360d | 2025-10-25 | 58 | 457 | 0 | 15 | 1 | 1403 |
+| last720d | 2024-10-30 | 58 | 457 | 0 | 16 | 1 | 1487 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.13.0/epiq-linux-arm64) | 130.7 MiB | `native/linux/arm64` |
-| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.13.0/epiq-linux-x64) | 133.2 MiB | `other` |
-| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.13.0/epiq-macos-arm64) | 121.0 MiB | `native/darwin/arm64` |
-| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.13.0/epiq-macos-x64) | 124.1 MiB | `native/darwin/x64` |
-| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.13.0/epiq-windows-x64.exe) | 97.2 MiB | `native/win/x64` |
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.13.2/epiq-linux-arm64) | 130.4 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.13.2/epiq-linux-x64) | 132.9 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.13.2/epiq-macos-arm64) | 120.6 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.13.2/epiq-macos-x64) | 123.7 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.13.2/epiq-windows-x64.exe) | 96.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:55:19Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:11:29Z._
