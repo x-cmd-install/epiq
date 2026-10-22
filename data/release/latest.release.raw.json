@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 139398336,
       "digest": "sha256:f2764a6fd9a3f683eb8cde54f3ad0495d248605ced523303afdecef3bae645dd",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-20T22:20:51Z",
       "updated_at": "2026-10-20T22:20:56Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-linux-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101611520,
       "digest": "sha256:18b5f92271cdc5b2d77efb343a6234551785d1cb6bef134add69b1133867fc33",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-20T22:21:29Z",
       "updated_at": "2026-10-20T22:21:33Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-windows-x64.exe"
