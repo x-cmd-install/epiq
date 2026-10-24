@@ -14,14 +14,14 @@ x install epiq
 
 ## Code insight
 
-Total: **122,663** lines of code across **894** files in the top 5 languages.
+Total: **124,897** lines of code across **911** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 88,444 | 13,959 | 17,818 | 693 |
-| Tsx | 23,738 | 3,752 | 2,356 | 177 |
+| TypeScript | 89,999 | 14,197 | 18,113 | 709 |
+| Tsx | 24,411 | 3,810 | 2,404 | 178 |
 | Json | 9,826 | 0 | 0 | 7 |
-| JavaScript | 448 | 161 | 80 | 11 |
+| JavaScript | 454 | 163 | 80 | 11 |
 | Sh | 183 | 91 | 43 | 6 |
 
 ## Source
@@ -32,38 +32,38 @@ Total: **122,663** lines of code across **894** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.14.0` (2026-10-20)
-- **Last commit**: 2026-10-21
+- **Latest**: `v1.15.2` (2026-10-23)
+- **Last commit**: 2026-10-24
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 549 · **Forks**: 22 · **Open issues**: 17 · **Contributors**: 8
+- **Stars**: 551 · **Forks**: 22 · **Open issues**: 18 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 59 · **Merged PRs**: 467 · **Open PRs**: 0 · **Closed issues**: 17 · **Open issues**: 0 · **Commits**: 1517
+- **Releases**: 62 · **Merged PRs**: 488 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 1566
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 9 | 82 | 0 | 7 | 0 | 203 |
-| last60d | 2026-08-24 | 23 | 378 | 0 | 7 | 0 | 917 |
-| 90d | 2026-07-25 | 33 | 400 | 0 | 12 | 0 | 987 |
-| last180d | 2026-04-26 | 59 | 467 | 0 | 16 | 0 | 1153 |
-| 360d | 2025-10-28 | 59 | 467 | 0 | 16 | 0 | 1433 |
-| last720d | 2024-11-02 | 59 | 467 | 0 | 17 | 0 | 1517 |
+| 30d | 2026-09-24 | 12 | 103 | 1 | 8 | 0 | 252 |
+| last60d | 2026-08-25 | 26 | 399 | 1 | 8 | 0 | 966 |
+| 90d | 2026-07-26 | 36 | 421 | 1 | 13 | 0 | 1036 |
+| last180d | 2026-04-27 | 62 | 488 | 1 | 17 | 0 | 1202 |
+| 360d | 2025-10-29 | 62 | 488 | 1 | 17 | 0 | 1482 |
+| last720d | 2024-11-03 | 62 | 488 | 1 | 18 | 0 | 1566 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-linux-arm64) | 130.4 MiB | `native/linux/arm64` |
-| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-linux-x64) | 132.9 MiB | `other` |
-| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-macos-arm64) | 120.7 MiB | `native/darwin/arm64` |
-| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-macos-x64) | 123.8 MiB | `native/darwin/x64` |
-| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-windows-x64.exe) | 96.9 MiB | `native/win/x64` |
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-linux-arm64) | 130.6 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-linux-x64) | 133.1 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-macos-arm64) | 120.8 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-macos-x64) | 123.9 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-windows-x64.exe) | 97.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:10:10Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:55:16Z._
