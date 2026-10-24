@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ljtn/epiq/releases/418936561",
-  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/418936561/assets",
-  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/418936561/assets{?name,label}",
-  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.14.0",
-  "id": 418936561,
+  "url": "https://api.github.com/repos/ljtn/epiq/releases/422397428",
+  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/422397428/assets",
+  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/422397428/assets{?name,label}",
+  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.15.2",
+  "id": 422397428,
   "author": {
     "login": "ljtn",
     "id": 23129824,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPAGkN84Y-Hbx",
-  "tag_name": "v1.14.0",
+  "node_id": "RE_kwDOPAGkN84ZLUX0",
+  "tag_name": "v1.15.2",
   "target_commitish": "main",
-  "name": "v1.14.0",
+  "name": "v1.15.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-20T22:11:43Z",
-  "updated_at": "2026-10-20T22:21:44Z",
-  "published_at": "2026-10-20T22:16:58Z",
+  "created_at": "2026-10-23T23:36:19Z",
+  "updated_at": "2026-10-23T23:40:54Z",
+  "published_at": "2026-10-23T23:36:40Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/660650494",
-      "id": 660650494,
-      "node_id": "RA_kwDOPAGkN84nYLn-",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/670724464",
+      "id": 670724464,
+      "node_id": "RA_kwDOPAGkN84n-nFw",
       "name": "epiq-linux-arm64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 136776832,
-      "digest": "sha256:c0920384f302ea0480a7ca3ced4a3dbc82c6b0d6e64933b2e232b5496aa3a9de",
+      "size": 136907904,
+      "digest": "sha256:ae7e63a448f606094e93ed882a41b3a4604397c1f07e16124a89f7ede03f9dd7",
       "download_count": 2,
-      "created_at": "2026-10-20T22:20:50Z",
-      "updated_at": "2026-10-20T22:20:55Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-linux-arm64"
+      "created_at": "2026-10-23T23:40:02Z",
+      "updated_at": "2026-10-23T23:40:09Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/660650570",
-      "id": 660650570,
-      "node_id": "RA_kwDOPAGkN84nYLpK",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/670724466",
+      "id": 670724466,
+      "node_id": "RA_kwDOPAGkN84n-nFy",
       "name": "epiq-linux-x64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 139398336,
-      "digest": "sha256:f2764a6fd9a3f683eb8cde54f3ad0495d248605ced523303afdecef3bae645dd",
-      "download_count": 4,
-      "created_at": "2026-10-20T22:20:51Z",
-      "updated_at": "2026-10-20T22:20:56Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-linux-x64"
+      "size": 139529408,
+      "digest": "sha256:6945a3f55b27223fadaddbfb23f3f85207a7abf0be0774624a1b7a69cd5db318",
+      "download_count": 2,
+      "created_at": "2026-10-23T23:40:02Z",
+      "updated_at": "2026-10-23T23:40:06Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/660650696",
-      "id": 660650696,
-      "node_id": "RA_kwDOPAGkN84nYLrI",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/670724712",
+      "id": 670724712,
+      "node_id": "RA_kwDOPAGkN84n-nJo",
       "name": "epiq-macos-arm64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 126563024,
-      "digest": "sha256:8f27d9070a96c9adbd4202905d490d47ebb9999cd940795997e25c81aea5447e",
-      "download_count": 2,
-      "created_at": "2026-10-20T22:20:55Z",
-      "updated_at": "2026-10-20T22:21:03Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-macos-arm64"
+      "size": 126694352,
+      "digest": "sha256:b79d808e3b093fbaa40051b68289ebec4c5689c2bf8660ff3b7c46f3437e53f6",
+      "download_count": 1,
+      "created_at": "2026-10-23T23:40:11Z",
+      "updated_at": "2026-10-23T23:40:17Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/660650722",
-      "id": 660650722,
-      "node_id": "RA_kwDOPAGkN84nYLri",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/670725432",
+      "id": 670725432,
+      "node_id": "RA_kwDOPAGkN84n-nU4",
       "name": "epiq-macos-x64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 129797168,
-      "digest": "sha256:275cf3edbf12231b5f2f7539c0e8bdc6c58e75ed084e51968ea3d761482c2860",
+      "size": 129929264,
+      "digest": "sha256:f0647b951b1419dbffa72be58f1d19100003d475b1a85c56f3cb87bceed91888",
       "download_count": 0,
-      "created_at": "2026-10-20T22:20:57Z",
-      "updated_at": "2026-10-20T22:21:01Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-macos-x64"
+      "created_at": "2026-10-23T23:40:36Z",
+      "updated_at": "2026-10-23T23:40:42Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/660651779",
-      "id": 660651779,
-      "node_id": "RA_kwDOPAGkN84nYL8D",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/670725333",
+      "id": 670725333,
+      "node_id": "RA_kwDOPAGkN84n-nTV",
       "name": "epiq-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -209,16 +209,15 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 101611520,
-      "digest": "sha256:18b5f92271cdc5b2d77efb343a6234551785d1cb6bef134add69b1133867fc33",
-      "download_count": 1,
-      "created_at": "2026-10-20T22:21:29Z",
-      "updated_at": "2026-10-20T22:21:33Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.14.0/epiq-windows-x64.exe"
+      "size": 101799936,
+      "digest": "sha256:46eb93a690452f3b36b5e699047601eb48f7a037ebd114012c55a411e09d3084",
+      "download_count": 0,
+      "created_at": "2026-10-23T23:40:34Z",
+      "updated_at": "2026-10-23T23:40:38Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.15.2/epiq-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.14.0",
-  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.14.0",
-  "body": "v1.14.0\r\n\r\nBoard and lane descriptions\r\n- Board and lane descriptions hold conventions agents follow; the MCP\r\n  hands them out on assume, get, create and move (requested by @cmoncure)\r\n\r\nBoard and lane panels\r\n- Lane and board panels hold their description; a board's opens from\r\n  its row in the switcher\r\n- Board stats: flow over 8 weeks and time per lane, with checkbox\r\n  legends on every breakdown\r\n\r\nCommits\r\n- Link a commit by an Epiq-Ref: line in its body (by @mikepurvis)\r\n- Commit messages show in the commit panel and Code tab\r\n\r\nEditing\r\n- Unsent ticket text survives tab switches; ask before leaving (requested by @aclemmensen)\r\n- Descriptions keep line breaks, and the editor grows with its text\r\n\r\nGUI\r\n- Styling, cleanup\r\n\r\nPerformance\r\n- Board reads stay fast at 10-year size\r\n\r\nSpecial thanks to\r\n- @mikepurvis for Epiq-Ref commit linking (#468)\r\n- @cmoncure for the idea of board rules for agents (#469)\r\n- @aclemmensen for keeping unsent text (#475)",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.15.2",
+  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.15.2",
+  "body": "v1.15.2\n\nTime travel\n- Cards and the Code tab show each ticket's code as it was at the needle\n- The needle's position is kept in the URL, so reloads, links and\n  Back/Forward return to the same moment\n\nGUI\n- Clearer event log and filters\n- A bundled Inter typeface\n- UX, Styling\n"
 }
