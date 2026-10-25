@@ -14,12 +14,12 @@ x install epiq
 
 ## Code insight
 
-Total: **124,897** lines of code across **911** files in the top 5 languages.
+Total: **125,628** lines of code across **918** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 89,999 | 14,197 | 18,113 | 709 |
-| Tsx | 24,411 | 3,810 | 2,404 | 178 |
+| TypeScript | 90,426 | 14,227 | 18,182 | 714 |
+| Tsx | 24,715 | 3,820 | 2,421 | 180 |
 | Json | 9,826 | 0 | 0 | 7 |
 | JavaScript | 454 | 163 | 80 | 11 |
 | Sh | 183 | 91 | 43 | 6 |
@@ -42,18 +42,18 @@ Total: **124,897** lines of code across **911** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 488 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 1566
+- **Releases**: 62 · **Merged PRs**: 490 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 1571
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 12 | 103 | 1 | 8 | 0 | 252 |
-| last60d | 2026-08-25 | 26 | 399 | 1 | 8 | 0 | 966 |
-| 90d | 2026-07-26 | 36 | 421 | 1 | 13 | 0 | 1036 |
-| last180d | 2026-04-27 | 62 | 488 | 1 | 17 | 0 | 1202 |
-| 360d | 2025-10-29 | 62 | 488 | 1 | 17 | 0 | 1482 |
-| last720d | 2024-11-03 | 62 | 488 | 1 | 18 | 0 | 1566 |
+| 30d | 2026-09-25 | 12 | 105 | 1 | 8 | 0 | 257 |
+| last60d | 2026-08-26 | 26 | 399 | 1 | 8 | 0 | 971 |
+| 90d | 2026-07-27 | 36 | 423 | 1 | 13 | 0 | 1041 |
+| last180d | 2026-04-28 | 62 | 489 | 1 | 17 | 0 | 1207 |
+| 360d | 2025-10-30 | 62 | 490 | 1 | 17 | 0 | 1487 |
+| last720d | 2024-11-04 | 62 | 490 | 1 | 18 | 0 | 1571 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:55:16Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:58:13Z._
