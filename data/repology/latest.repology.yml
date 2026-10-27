@@ -2,8 +2,8 @@
   srcname: epiq
   binname: epiq
   visiblename: epiq
-  version: 1.15.2
-  origversion: 1.15.2-1
+  version: 1.16.0
+  origversion: 1.16.0-1
   status: unique
   summary: CLI based issue tracker TUI - distributed and backed by git
   maintainers:
