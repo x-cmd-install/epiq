@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ljtn/epiq/releases/425418424",
-  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/425418424/assets",
-  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/425418424/assets{?name,label}",
-  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.16.1",
-  "id": 425418424,
+  "url": "https://api.github.com/repos/ljtn/epiq/releases/426438508",
+  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/426438508/assets",
+  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/426438508/assets{?name,label}",
+  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.16.2",
+  "id": 426438508,
   "author": {
     "login": "ljtn",
     "id": 23129824,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPAGkN84ZW164",
-  "tag_name": "v1.16.1",
+  "node_id": "RE_kwDOPAGkN84Zau9s",
+  "tag_name": "v1.16.2",
   "target_commitish": "main",
-  "name": "v1.16.1",
+  "name": "v1.16.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-27T12:16:13Z",
-  "updated_at": "2026-10-27T12:22:49Z",
-  "published_at": "2026-10-27T12:18:14Z",
+  "created_at": "2026-10-28T08:53:33Z",
+  "updated_at": "2026-10-28T09:01:13Z",
+  "published_at": "2026-10-28T08:55:52Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/681520310",
-      "id": 681520310,
-      "node_id": "RA_kwDOPAGkN84onyy2",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/684411238",
+      "id": 684411238,
+      "node_id": "RA_kwDOPAGkN84oy0lm",
       "name": "epiq-linux-arm64",
       "label": "",
       "uploader": {
@@ -65,17 +65,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 137104512,
-      "digest": "sha256:1c60615eec8b82f879c60787c9c3dfa4a81765350de8c9deee3e5d6a96623e7a",
+      "size": 136973440,
+      "digest": "sha256:1eecfe3693522ab75f0a362304b5798b30180e4c9ed398919a7d1c8bad7fcdef",
       "download_count": 2,
-      "created_at": "2026-10-27T12:21:53Z",
-      "updated_at": "2026-10-27T12:21:58Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.1/epiq-linux-arm64"
+      "created_at": "2026-10-28T09:00:13Z",
+      "updated_at": "2026-10-28T09:00:19Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/681520600",
-      "id": 681520600,
-      "node_id": "RA_kwDOPAGkN84ony3Y",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/684410990",
+      "id": 684410990,
+      "node_id": "RA_kwDOPAGkN84oy0hu",
       "name": "epiq-linux-x64",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 139594944,
-      "digest": "sha256:62e6b1c95acf5d7671ce20f2c3a8e12d8c79895b8f2a8ff6f4dc0b456f87f6d5",
-      "download_count": 2,
-      "created_at": "2026-10-27T12:22:02Z",
-      "updated_at": "2026-10-27T12:22:07Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.1/epiq-linux-x64"
+      "size": 139660480,
+      "digest": "sha256:c5b842cabd4dc403b4642512328e0b0eb7c53e90a66018c64ae9d994bf32f378",
+      "download_count": 3,
+      "created_at": "2026-10-28T09:00:07Z",
+      "updated_at": "2026-10-28T09:00:12Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/681520007",
-      "id": 681520007,
-      "node_id": "RA_kwDOPAGkN84onyuH",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/684411202",
+      "id": 684411202,
+      "node_id": "RA_kwDOPAGkN84oy0lC",
       "name": "epiq-macos-arm64",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 126743600,
-      "digest": "sha256:8e2ceaf1c281cda78d0b3d4e85fed3e46eba1402a4f8a73365e1d3b8d28d4691",
-      "download_count": 1,
-      "created_at": "2026-10-27T12:21:46Z",
-      "updated_at": "2026-10-27T12:21:51Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.1/epiq-macos-arm64"
+      "digest": "sha256:fad0e997e4f9c30b3998a43ed3fdfe934c384c084ba6770a576932756ba885d3",
+      "download_count": 2,
+      "created_at": "2026-10-28T09:00:12Z",
+      "updated_at": "2026-10-28T09:00:17Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/681521471",
-      "id": 681521471,
-      "node_id": "RA_kwDOPAGkN84onzE_",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/684412584",
+      "id": 684412584,
+      "node_id": "RA_kwDOPAGkN84oy06o",
       "name": "epiq-macos-x64",
       "label": "",
       "uploader": {
@@ -174,16 +174,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 130052448,
-      "digest": "sha256:893f4d42c3e824b5611c2c50aac5cfe0b46f2e34244f008fd1dbba9bd707f49d",
+      "digest": "sha256:6f9a0dc88a1536e41670415d0f02acfc28b7a26e9c79a9161bad5f2b2834ee49",
       "download_count": 0,
-      "created_at": "2026-10-27T12:22:30Z",
-      "updated_at": "2026-10-27T12:22:37Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.1/epiq-macos-x64"
+      "created_at": "2026-10-28T09:00:48Z",
+      "updated_at": "2026-10-28T09:00:54Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/681521506",
-      "id": 681521506,
-      "node_id": "RA_kwDOPAGkN84onzFi",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/684412833",
+      "id": 684412833,
+      "node_id": "RA_kwDOPAGkN84oy0-h",
       "name": "epiq-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -210,14 +210,14 @@
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
       "size": 101848576,
-      "digest": "sha256:54506aebb0f012b8dfc3f6362b5b1cb04fc254e573553ef154a2a487e6b409f6",
+      "digest": "sha256:5298fec013d528e3a39540fe107e56b03e7aecb927cb6b25476249da05e56ede",
       "download_count": 0,
-      "created_at": "2026-10-27T12:22:31Z",
-      "updated_at": "2026-10-27T12:22:36Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.1/epiq-windows-x64.exe"
+      "created_at": "2026-10-28T09:00:54Z",
+      "updated_at": "2026-10-28T09:00:59Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.16.1",
-  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.16.1",
-  "body": "v1.16.1\r\n\r\nGoals\r\n- A goal can have a description that says what it's for and when it's done\r\n\r\nAgents\r\n- MCP replies are smaller, so agents use fewer tokens\r\n- skill.md updates"
+  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.16.2",
+  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.16.2",
+  "body": "v1.16.2\r\n\r\nLive\r\n- Follows a new comment on the ticket you're already watching, instead of staying on the previous one\r\n\r\nCode tab\r\n- Opening a commit from the log, or from any link to it, expands only that commit and scrolls to it, even when it's the one already open\r\n- The Diff switch stays clickable after opening a commit from the log"
 }
