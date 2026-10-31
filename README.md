@@ -27,33 +27,33 @@ Total: **130,691** lines of code across **945** files in the top 5 languages.
 ## Source
 
 - **Upstream**: <https://github.com/ljtn/epiq>
-- **Homepage**: <https://ljtn.github.io/epiq/>
+- **Homepage**: <https://epiq.sh>
 - **License**: MIT
 
 ## Release
 
 - **Latest**: `v1.16.2` (2026-10-28)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-10-30
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 562 · **Forks**: 23 · **Open issues**: 18 · **Contributors**: 8
+- **Stars**: 571 · **Forks**: 23 · **Open issues**: 18 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 508 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 1589
+- **Releases**: 65 · **Merged PRs**: 510 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 0 · **Commits**: 1591
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 13 | 100 | 1 | 7 | 0 | 231 |
-| last60d | 2026-08-31 | 26 | 328 | 1 | 8 | 0 | 761 |
-| 90d | 2026-08-01 | 39 | 441 | 1 | 13 | 0 | 1059 |
-| last180d | 2026-05-03 | 62 | 497 | 1 | 17 | 0 | 1159 |
-| 360d | 2025-11-04 | 65 | 508 | 1 | 17 | 0 | 1505 |
-| last720d | 2024-11-09 | 65 | 508 | 1 | 18 | 0 | 1589 |
+| 30d | 2026-10-01 | 13 | 102 | 1 | 6 | 0 | 233 |
+| last60d | 2026-09-01 | 25 | 324 | 1 | 8 | 0 | 763 |
+| 90d | 2026-08-02 | 39 | 443 | 1 | 13 | 0 | 1061 |
+| last180d | 2026-05-04 | 60 | 496 | 1 | 17 | 0 | 1161 |
+| 360d | 2025-11-05 | 65 | 510 | 1 | 17 | 0 | 1507 |
+| last720d | 2024-11-10 | 65 | 510 | 1 | 18 | 0 | 1591 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:11:37Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:59:23Z._
