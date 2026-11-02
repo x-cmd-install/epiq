@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 139660480,
       "digest": "sha256:c5b842cabd4dc403b4642512328e0b0eb7c53e90a66018c64ae9d994bf32f378",
-      "download_count": 21,
+      "download_count": 45,
       "created_at": "2026-10-28T09:00:07Z",
       "updated_at": "2026-10-28T09:00:12Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-linux-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126743600,
       "digest": "sha256:fad0e997e4f9c30b3998a43ed3fdfe934c384c084ba6770a576932756ba885d3",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-10-28T09:00:12Z",
       "updated_at": "2026-10-28T09:00:17Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-macos-arm64"
