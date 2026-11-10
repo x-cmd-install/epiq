@@ -14,12 +14,12 @@ x install epiq
 
 ## Code insight
 
-Total: **131,808** lines of code across **953** files in the top 5 languages.
+Total: **132,643** lines of code across **955** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 95,220 | 8,808 | 18,995 | 743 |
-| Tsx | 26,087 | 2,162 | 2,482 | 186 |
+| TypeScript | 95,931 | 8,872 | 19,115 | 744 |
+| Tsx | 26,211 | 2,185 | 2,485 | 187 |
 | Json | 9,843 | 0 | 0 | 7 |
 | JavaScript | 451 | 87 | 80 | 11 |
 | Sh | 183 | 91 | 43 | 6 |
@@ -32,38 +32,38 @@ Total: **131,808** lines of code across **953** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.16.2` (2026-10-28)
-- **Last commit**: 2026-11-08
+- **Latest**: `v1.17.1` (2026-11-09)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 5
 
 ## Popularity
 
-- **Stars**: 582 · **Forks**: 24 · **Open issues**: 19 · **Contributors**: 8
+- **Stars**: 583 · **Forks**: 24 · **Open issues**: 19 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 65 · **Merged PRs**: 523 · **Open PRs**: 1 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 1604
+- **Releases**: 67 · **Merged PRs**: 539 · **Open PRs**: 0 · **Closed issues**: 19 · **Open issues**: 0 · **Commits**: 1620
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 10 | 98 | 1 | 5 | 0 | 146 |
-| last60d | 2026-09-10 | 19 | 253 | 1 | 9 | 0 | 559 |
-| 90d | 2026-08-11 | 36 | 452 | 1 | 13 | 0 | 1059 |
-| last180d | 2026-05-13 | 57 | 501 | 1 | 18 | 0 | 1110 |
-| 360d | 2025-11-14 | 65 | 523 | 1 | 18 | 0 | 1520 |
-| last720d | 2024-11-19 | 65 | 523 | 1 | 19 | 0 | 1604 |
+| 30d | 2026-10-11 | 12 | 114 | 0 | 5 | 0 | 162 |
+| last60d | 2026-09-11 | 21 | 269 | 0 | 9 | 0 | 575 |
+| 90d | 2026-08-12 | 38 | 459 | 0 | 9 | 0 | 1075 |
+| last180d | 2026-05-14 | 59 | 516 | 0 | 18 | 0 | 1126 |
+| 360d | 2025-11-15 | 67 | 539 | 0 | 18 | 0 | 1536 |
+| last720d | 2024-11-20 | 67 | 539 | 0 | 19 | 0 | 1620 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-linux-arm64) | 130.6 MiB | `native/linux/arm64` |
-| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-linux-x64) | 133.2 MiB | `other` |
-| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-macos-arm64) | 120.9 MiB | `native/darwin/arm64` |
-| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-macos-x64) | 124.0 MiB | `native/darwin/x64` |
-| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.16.2/epiq-windows-x64.exe) | 97.1 MiB | `native/win/x64` |
+| [epiq-linux-arm64](https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-linux-arm64) | 130.8 MiB | `native/linux/arm64` |
+| [epiq-linux-x64](https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-linux-x64) | 133.3 MiB | `other` |
+| [epiq-macos-arm64](https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-macos-arm64) | 121.0 MiB | `native/darwin/arm64` |
+| [epiq-macos-x64](https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-macos-x64) | 124.1 MiB | `native/darwin/x64` |
+| [epiq-windows-x64.exe](https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-windows-x64.exe) | 97.2 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:53:01Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:39:46Z._
