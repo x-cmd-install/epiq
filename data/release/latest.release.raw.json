@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 139726016,
       "digest": "sha256:15a958ca6d868ba02817243f53e94c9af8731d7e2c1ff7c997fb41f138b409aa",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-11-09T20:29:24Z",
       "updated_at": "2026-11-09T20:29:29Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-linux-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126886064,
       "digest": "sha256:9d217dca01cc9856fd3a5a4fe61ab0a6b08e1c389d815d0a26ab210ac02e2f50",
-      "download_count": 1,
+      "download_count": 4,
       "created_at": "2026-11-09T20:29:41Z",
       "updated_at": "2026-11-09T20:29:46Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-macos-arm64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101915648,
       "digest": "sha256:0f08fad7d9bec588260055315466eba32ca9d5837bd24153b707b2575c5427fb",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-09T20:29:26Z",
       "updated_at": "2026-11-09T20:29:30Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-windows-x64.exe"
