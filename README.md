@@ -48,12 +48,12 @@ Total: **132,849** lines of code across **956** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 11 | 99 | 1 | 5 | 0 | 107 |
-| last60d | 2026-09-16 | 21 | 222 | 1 | 9 | 0 | 310 |
-| 90d | 2026-08-17 | 35 | 458 | 1 | 9 | 0 | 1030 |
-| last180d | 2026-05-19 | 58 | 513 | 1 | 17 | 0 | 1128 |
-| 360d | 2025-11-20 | 67 | 543 | 1 | 18 | 0 | 1540 |
-| last720d | 2024-11-25 | 67 | 543 | 1 | 19 | 0 | 1624 |
+| 30d | 2026-10-17 | 11 | 99 | 1 | 3 | 0 | 107 |
+| last60d | 2026-09-17 | 20 | 211 | 1 | 9 | 0 | 310 |
+| 90d | 2026-08-18 | 33 | 458 | 1 | 9 | 0 | 1030 |
+| last180d | 2026-05-20 | 58 | 512 | 1 | 17 | 0 | 1128 |
+| 360d | 2025-11-21 | 67 | 543 | 1 | 18 | 0 | 1540 |
+| last720d | 2024-11-26 | 67 | 543 | 1 | 19 | 0 | 1624 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for epiq lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:51:44Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:09:20Z._
