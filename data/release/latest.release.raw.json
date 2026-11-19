@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ljtn/epiq/releases/439602430",
-  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/439602430/assets",
-  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/439602430/assets{?name,label}",
-  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.17.1",
-  "id": 439602430,
+  "url": "https://api.github.com/repos/ljtn/epiq/releases/450495075",
+  "assets_url": "https://api.github.com/repos/ljtn/epiq/releases/450495075/assets",
+  "upload_url": "https://uploads.github.com/repos/ljtn/epiq/releases/450495075/assets{?name,label}",
+  "html_url": "https://github.com/ljtn/epiq/releases/tag/v1.18.0",
+  "id": 450495075,
   "author": {
     "login": "ljtn",
     "id": 23129824,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOPAGkN84aM8z-",
-  "tag_name": "v1.17.1",
+  "node_id": "RE_kwDOPAGkN84a2gJj",
+  "tag_name": "v1.18.0",
   "target_commitish": "main",
-  "name": "v1.17.1",
+  "name": "v1.18.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-09T20:22:47Z",
-  "updated_at": "2026-11-09T20:30:07Z",
-  "published_at": "2026-11-09T20:24:29Z",
+  "created_at": "2026-11-18T20:01:26Z",
+  "updated_at": "2026-11-18T21:28:50Z",
+  "published_at": "2026-11-18T20:06:04Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/728870034",
-      "id": 728870034,
-      "node_id": "RA_kwDOPAGkN84rcayS",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/764831799",
+      "id": 764831799,
+      "node_id": "RA_kwDOPAGkN84tlmg3",
       "name": "epiq-linux-arm64",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 137170048,
-      "digest": "sha256:a58802ecbb28e74a17fd778fe2cc927f367e83536f4805a96e32b011250cb9df",
-      "download_count": 4,
-      "created_at": "2026-11-09T20:29:19Z",
-      "updated_at": "2026-11-09T20:29:24Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-linux-arm64"
+      "digest": "sha256:618558de3a2c5c1cf002e4224cb5a84d470ccba3566bfa14ad2e8c07cd6fdba1",
+      "download_count": 0,
+      "created_at": "2026-11-18T20:11:59Z",
+      "updated_at": "2026-11-18T20:12:04Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.18.0/epiq-linux-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/728870383",
-      "id": 728870383,
-      "node_id": "RA_kwDOPAGkN84rca3v",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/764830561",
+      "id": 764830561,
+      "node_id": "RA_kwDOPAGkN84tlmNh",
       "name": "epiq-linux-x64",
       "label": "",
       "uploader": {
@@ -102,16 +102,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 139726016,
-      "digest": "sha256:15a958ca6d868ba02817243f53e94c9af8731d7e2c1ff7c997fb41f138b409aa",
-      "download_count": 16,
-      "created_at": "2026-11-09T20:29:24Z",
-      "updated_at": "2026-11-09T20:29:29Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-linux-x64"
+      "digest": "sha256:c10e2c8d64c4b8b8dac117275062c6ab392a7d0f2765ac9c173c179b00d3dcf9",
+      "download_count": 0,
+      "created_at": "2026-11-18T20:11:29Z",
+      "updated_at": "2026-11-18T20:11:34Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.18.0/epiq-linux-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/728871134",
-      "id": 728871134,
-      "node_id": "RA_kwDOPAGkN84rcbDe",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/765069353",
+      "id": 765069353,
+      "node_id": "RA_kwDOPAGkN84tmggp",
       "name": "epiq-macos-arm64",
       "label": "",
       "uploader": {
@@ -137,17 +137,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 126886064,
-      "digest": "sha256:9d217dca01cc9856fd3a5a4fe61ab0a6b08e1c389d815d0a26ab210ac02e2f50",
-      "download_count": 4,
-      "created_at": "2026-11-09T20:29:41Z",
-      "updated_at": "2026-11-09T20:29:46Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-macos-arm64"
+      "size": 126923568,
+      "digest": "sha256:1f89f6ab6b763381ce5caaae2bdb193a1fdd4837603bebf684393b1186445203",
+      "download_count": 2,
+      "created_at": "2026-11-18T21:28:23Z",
+      "updated_at": "2026-11-18T21:28:28Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.18.0/epiq-macos-arm64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/728871563",
-      "id": 728871563,
-      "node_id": "RA_kwDOPAGkN84rcbKL",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/765069652",
+      "id": 765069652,
+      "node_id": "RA_kwDOPAGkN84tmglU",
       "name": "epiq-macos-x64",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/octet-stream",
       "state": "uploaded",
-      "size": 130122624,
-      "digest": "sha256:4e6c8c8962387a6e24ea7df88160862e524f332e4fe6eb84d5d65909ef28dee2",
-      "download_count": 1,
-      "created_at": "2026-11-09T20:29:50Z",
-      "updated_at": "2026-11-09T20:29:55Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-macos-x64"
+      "size": 130130880,
+      "digest": "sha256:2f93fbc38cfd874196ea30706bf6588478fccdbe39b5f7fb526147efc723b4b5",
+      "download_count": 0,
+      "created_at": "2026-11-18T21:28:31Z",
+      "updated_at": "2026-11-18T21:28:35Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.18.0/epiq-macos-x64"
     },
     {
-      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/728870503",
-      "id": 728870503,
-      "node_id": "RA_kwDOPAGkN84rca5n",
+      "url": "https://api.github.com/repos/ljtn/epiq/releases/assets/764833860",
+      "id": 764833860,
+      "node_id": "RA_kwDOPAGkN84tlnBE",
       "name": "epiq-windows-x64.exe",
       "label": "",
       "uploader": {
@@ -209,15 +209,16 @@
       },
       "content_type": "application/x-msdos-program",
       "state": "uploaded",
-      "size": 101915648,
-      "digest": "sha256:0f08fad7d9bec588260055315466eba32ca9d5837bd24153b707b2575c5427fb",
-      "download_count": 5,
-      "created_at": "2026-11-09T20:29:26Z",
-      "updated_at": "2026-11-09T20:29:30Z",
-      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.17.1/epiq-windows-x64.exe"
+      "size": 101970432,
+      "digest": "sha256:ddec43215007283cc3d99a9f0d410ffa6be3073e731e7c8de6333ce6756fe6fa",
+      "download_count": 0,
+      "created_at": "2026-11-18T20:12:46Z",
+      "updated_at": "2026-11-18T20:12:52Z",
+      "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.18.0/epiq-windows-x64.exe"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.17.1",
-  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.17.1",
-  "body": "v1.17.1\r\n- Performance improvements\r\n- GUI styling UX enhancements"
+  "tarball_url": "https://api.github.com/repos/ljtn/epiq/tarball/v1.18.0",
+  "zipball_url": "https://api.github.com/repos/ljtn/epiq/zipball/v1.18.0",
+  "body": "v1.18.0\r\n\r\nSetup\r\n- Additional standalone `epiq setup` command, for when you don't want to initialize a new project also\r\n- Addiitonal `epiq init` command starts a board from a script, without the TUI\r\n- The editor falls back to $VISUAL, then $EDITOR; pick another with :config editor\r\n\r\nTUI\r\n- Quit with :q, :q!, :quit or :wq; q at the top offers :exit\r\n- Exiting leaves a clean terminal\r\n\r\nGUI\r\n- Comments read oldest first, with the composer pinned under the thread (contributed by @zz-simbe) (#579)\r\n- Prettier markdown tables \r\n- A lane the filter empties says how many tickets it hides, with a Clear\r\n- Switching board keeps tag, contributor and goal filters\r\n- The board switcher counts every ticket again, whatever the filter hides\r\n- Dense cards count the tags they can't fit",
+  "mentions_count": 1
 }
