@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 136318080,
       "digest": "sha256:b78aeb15a33aa0cc6808eeb2ae5aa6cee2e70bd78c808ae8bb2c630636d338c1",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-23T19:34:55Z",
       "updated_at": "2026-11-23T19:35:00Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.19.0/epiq-linux-arm64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 138874048,
       "digest": "sha256:f08246026b9c6269e6b4675edd0c04909a35cd14f1dcbd44b6a4aad346e4133f",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2026-11-23T19:35:07Z",
       "updated_at": "2026-11-23T19:35:13Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.19.0/epiq-linux-x64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 126102768,
       "digest": "sha256:030c6c7314fa298f315623e8e2475cb78bfacf1771b4892d988ae92f2b997111",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-11-23T19:34:54Z",
       "updated_at": "2026-11-23T19:35:00Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.19.0/epiq-macos-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 129334112,
       "digest": "sha256:cde31ecaa217985365f82d1f60c9edf8a7357f97c8d0749d282e9f0382e16c6b",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-23T19:35:43Z",
       "updated_at": "2026-11-23T19:35:49Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.19.0/epiq-macos-x64"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 101149696,
       "digest": "sha256:877325153a7316ac86b8a3ccfb2e2f714af07cd334b72a312d3fa39473b83363",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-11-23T19:35:45Z",
       "updated_at": "2026-11-23T19:35:49Z",
       "browser_download_url": "https://github.com/ljtn/epiq/releases/download/v1.19.0/epiq-windows-x64.exe"
